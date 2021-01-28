@@ -1,0 +1,7 @@
+search:
+  - action: find_send
+    location: [xpath, "//*[@resource-id='com.xueqiu.android:id/search_input_text']"]
+    text: xiaomi
+
+  - action: find_click
+    location: [xpath, "//*[@text='小米集团-W']"]

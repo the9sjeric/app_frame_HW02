@@ -1,0 +1,4 @@
+goto_quotation_page:
+  - action: find_click
+    location: [xpath, "//*[contains(@resource-id,'tab_name') and @text='行情']"]
+
